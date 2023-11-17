@@ -367,6 +367,7 @@ function randomize() {
     temp.splice(randValue, 1);
   } 
 }
+
 function donutTimer(timerSeconds) {
   var avanzo = (30-timerSeconds);
   var xValues = ["Tempo rimanente", "Tempo passato"];
